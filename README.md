@@ -5,5 +5,5 @@
 第一代项目：https://github.com/CH3Hg/BiliTeenModeCracker
 ## 原理
 1.暴力破解：利用ADB（安卓调试桥）进行自动化地输入密码。但由于哔哩哔哩存在每天4次的尝试限制，所以破解时间会变得很长（大约6年）。  
-2.API请求：利用哔哩哔哩的api接口进行请求，达到关闭青少年模式的效果  
+2.API请求：利用哔哩哔哩的api接口进行请求，达到关闭青少年模式的效果。api接口来源：https://github.com/SocialSisterYi/bilibili-API-collect    
 3.
